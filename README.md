@@ -107,3 +107,6 @@ This is just for practise sake don't be bothered to make mistakes because its a 
 =======
 This is for logs and then will remove this 
 >>>>>>> Stashed changes
+
+
+This is the second change 
